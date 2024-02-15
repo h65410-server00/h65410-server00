@@ -1,0 +1,1 @@
+import{b as r}from"./index.c958989c.js";import{u as s}from"./app-store.ddb93f8a.js";var t=r(async({router:e})=>{const a=s();e.beforeEach((l,f,o)=>{f.meta.keepAlive=!1,l.meta.keepAlive=!1,a.error="",a.user!=null?l.fullPath=="/login"&&e.replace("/"):l.fullPath!="/login"&&e.replace("/login"),o()})});export{t as default};

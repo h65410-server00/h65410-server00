@@ -1,0 +1,1 @@
+import{Q as t}from"./QBtn.d13105fa.js";import{Q as o}from"./QInput.479a4d0c.js";import{b as e}from"./index.c958989c.js";import"./use-dark.a7796580.js";var u=e(()=>{t.props.noCaps={type:Boolean,default:!0},o.props.outlined={type:Boolean,default:!0},o.props.dense={type:Boolean,default:!0}});export{u as default};
